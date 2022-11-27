@@ -58,27 +58,3 @@ export default function Main() {
     </div>
   )
 }
-
-/*       <div className="main-container-title">
-        <h2>Nome</h2>
-        <h2>Categoria</h2>
-        <h2>Descrição</h2>
-      </div>
-      <div className="main-child">
-        <h2>Penicilina</h2>
-      </div>
-      <div className="main-child">
-        <h2>Poloramine</h2>
-      </div>
-      <div className="main-child">
-        <h2>Dipirona</h2>
-      </div>
-      <div className="main-child">
-        <h2>Paracetamol</h2>
-      </div>
-      <div className="main-child">
-        <h2>Fluoxetina</h2>
-      </div>
-      <div className="main-child">
-        <h2></h2>
-      </div> */
