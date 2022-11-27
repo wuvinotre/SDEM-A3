@@ -1,0 +1,44 @@
+.main-container {
+  background-color: #fff;
+  width: 100%;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.main-container-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f8f8;
+  padding: 3.2rem;
+  height: 6rem;
+}
+
+.main-child {
+  padding: 3.2rem;
+  display: flex;
+  align-items:baseline;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(222, 223, 225);
+
+
+  h2 {
+    color:#374151;
+  }
+
+  p {
+    max-width: 20ch;
+  }
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  padding: 3rem;
+  text-align: left;
+
+  border-bottom: 1px solid rgb(222, 223, 225);
+}
