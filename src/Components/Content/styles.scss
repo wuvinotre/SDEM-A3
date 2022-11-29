@@ -18,13 +18,12 @@
 .main-child {
   padding: 3.2rem;
   display: flex;
-  align-items:baseline;
+  align-items: baseline;
   justify-content: space-between;
   border-bottom: 1px solid rgb(222, 223, 225);
 
-
   h2 {
-    color:#374151;
+    color: #374151;
   }
 
   p {
@@ -36,7 +35,8 @@ table {
   width: 100%;
 }
 
-th, td {
+th,
+td {
   padding: 3rem;
   text-align: left;
 
