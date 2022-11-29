@@ -1,0 +1,148 @@
+[
+  {
+    "composition": "Etoricoxibe",
+    "interactions": [
+      {
+        "InteractionWith": "Varfarina",
+        "interactionType": "13% de aumento no tempo de protrombina."
+      },
+      {
+        "InteractionWith": "Metotrexato",
+        "interactionType": "Etoricoxibe na dose de 120 mg aumentou a concentração plasmática do metotrexato em 28% (conforme avaliado pela AUC) e reduziu a depuração renal do metotrexato em 13%."
+      },
+      {
+        "InteractionWith": "Rifampicina",
+        "interactionType": "Reduz em 65% a área sob a curva (AUC) da concentração plasmática do etoricoxibe."
+      },
+
+      {
+        "InteractionWith": "Diuréticos",
+        "interactionType": "Podem diminuir o efeito anti-hipertensivo dos Diuréticos."
+      },
+      {
+        "InteractionWith": "Inibidores da Enzima Conversora de Angiotensina (ECA)",
+        "interactionType": "Podem diminuir o efeito anti-hipertensivo dos Inibidores da ECA."
+      },
+      {
+        "InteractionWith": "Bloqueadores do Receptor de Angiotensina II (BRAs)",
+        "interactionType": "Podem diminuir o efeito anti-hipertensivo dos BRAs."
+      },
+      {
+        "InteractionWith": "Lítio",
+        "interactionType": "A interação ocorrida com os AINEs com este fármaco é por eles inibirem a síntese de prostaglandinas renais. Pode verificar-se uma maior reabsorção tubular do lítio, e ocorrência de níveis sanguíneos tóxicos."
+      },
+      {
+        "InteractionWith": "Ácido Acetilsalicílico",
+        "interactionType": "Aumento da incidência de úlceras ou de outras complicações do trato gastrintestinal em comparação com o uso de Etoricoxibe isoladamente."
+      },
+      {
+        "InteractionWith": "Anticoncepcionais Orais",
+        "interactionType": "Ocorre um aumento na concentração do etinilestradiol que possui em anticoncepcionais orais."
+      }
+    ]
+  },
+  {
+    "composition": "Atroveran DIP",
+    "interactions": [
+      {
+        "InteractionWith": "Ciclosporinas",
+        "interactionType": "Redução dos níveis de ciclosporina no sangue."
+      },
+      {
+        "InteractionWith": "Metotrexato",
+        "interactionType": "Aumento da toxicidade sanguínea do metotrexato particularmente em pacientes idosos."
+      },
+      {
+        "InteractionWith": "Rifampicina",
+        "interactionType": "Redução do efeito do ácido acetilsalicílico na agregação plaquetária."
+      }
+    ]
+  },
+  {
+    "composition": "Ácido Mefenâmico",
+    "interactions": [
+      {
+        "InteractionWith": "Anticoagulantes",
+        "interactionType": "O Ácido Mefenâmico desloca a varfarina dos sítios de ligação à proteína e pode aumentar a resposta aos anticoagulantes orais."
+      },
+      {
+        "InteractionWith": "Anti-hipertensivos",
+        "interactionType": "o Ácido Mefenâmico diminui a eficácia desses medicamentos."
+      },
+      {
+        "InteractionWith": "Corticosteroides",
+        "interactionType": "Aumento do risco de ulceração gastrintestinal ou sangramento."
+      },
+      {
+        "InteractionWith": "Ciclosporina",
+        "interactionType": "Devido aos efeitos nas prostaglandinas renais, os AINEs como o ácidomefenâmico, podem aumentar o risco de nefrotoxicidade com a ciclosporina."
+      },
+      {
+        "InteractionWith": "Agentes Hipoglicemiantes",
+        "interactionType": "Alterações no efeito dos agentes hipoglicemiantes orais na presença de AINEs."
+      },
+      {
+        "InteractionWith": "Lítio",
+        "interactionType": "A interação ocorrida com os AINEs com este fármaco é por eles inibirem a síntese de prostaglandinas renais. Pode verificar-se uma maior reabsorção tubular do lítio, e ocorrência de níveis sanguíneos tóxicos."
+      },
+      {
+        "InteractionWith": "Metotrexato",
+        "interactionType": "Aumento dos níveis plasmáticos de metotrexato."
+      },
+      {
+        "InteractionWith": "Cetorolaco",
+        "interactionType": "Aumento do risco de sangramento gastrointestinal."
+      },
+      {
+        "InteractionWith": "Ginkgo Biloba",
+        "interactionType": "Aumento do risco de sangramento."
+      },
+      {
+        "InteractionWith": "Inibidores seletivos da recaptação de serotonina",
+        "interactionType": "Aumentam o risco de sangramento gastrointestinal."
+      }
+    ]
+  },
+  {
+    "composition": "Diclofenaco Sódico",
+    "interactions": [
+      {
+        "InteractionWith": "Lítio",
+        "interactionType": "A interação ocorrida com os AINEs com este fármaco é por eles inibirem a síntese de prostaglandinas renais. Pode verificar-se uma maior reabsorção tubular do lítio, e ocorrência de níveis sanguíneos tóxicos."
+      },
+      {
+        "InteractionWith": "Digoxina",
+        "interactionType": "Elevação das concentrações plasmáticas de digoxina."
+      },
+      {
+        "InteractionWith": "Diuréticos ou anti-hipertensivos",
+        "interactionType": "O uso concomitante de diclofenaco com diuréticos ou anti-hipertensivos pode diminuir o efeito anti-hipertensivo."
+      },
+      {
+        "InteractionWith": "Medicamentos conhecidos por causar Hipercalemia",
+        "interactionType": "O tratamento concomitante com diuréticos poupadores de potássio, ciclosporina, tacrolimo ou trimetoprima podem ser associados com o aumento dos níveis séricos de potássio."
+      }
+    ]
+  },
+  {
+    "composition": "Diclofenaco Potássico",
+    "interactions": [
+      {
+        "InteractionWith": "Lítio",
+        "interactionType": "A interação ocorrida com os AINEs com este fármaco é por eles inibirem a síntese de prostaglandinas renais. Pode verificar-se uma maior reabsorção tubular do lítio, e ocorrência de níveis sanguíneos tóxicos."
+      },
+      {
+        "InteractionWith": "Digoxina",
+        "interactionType": "Elevação das concentrações plasmáticas de digoxina."
+      },
+      {
+        "InteractionWith": "Diuréticos ou anti-hipertensivos",
+        "interactionType": "O uso concomitante de diclofenaco com diuréticos ou anti-hipertensivos  pode diminuir o efeito anti-hipertensivo."
+      },
+      {
+        "InteractionWith": "Medicamentos conhecidos por causar Hipercalemia",
+        "interactionType": "O tratamento concomitante com diuréticos poupadores de potássio, ciclosporina, tacrolimo ou trimetoprima podem ser associados com o aumento dos níveis séricos de potássio."
+      }
+    ]
+  }
+]
