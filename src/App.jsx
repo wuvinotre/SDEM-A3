@@ -1,11 +1,21 @@
-import { Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+// CSS
 import "./App.scss";
-import { Home } from "./Pages/Home/Index";
+
+// Components
+import Container from "./Components/Container";
+import ErrorPage from "./Pages/Error";
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/*" element={<Container />} />
+          <Route path="*" element={<ErrorPage />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }

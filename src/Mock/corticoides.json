@@ -40,12 +40,12 @@
     "instruction": "Via nasal, aplicar 1 a 2 doses, 2 vezes ao dia."
   },
   {
-    "name": "Clenil Pulvinal",
+    "name": "Clenil Pulvinal A",
     "symptoms": "Asma brônquica",
     "instruction": "Via inalatória. Adultos: usar 1 dose, 2 a 4 vezes ao dia."
   },
   {
-    "name": "Clenil Pulvinal",
+    "name": "Clenil Pulvinal B",
     "symptoms": "Corticoterapia",
     "instruction": "Via inalatória. Crianças: usar 1 dose, 2 vezes ao dia."
   },
@@ -305,12 +305,12 @@
     "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
   },
   {
-    "name": "Cetadex",
+    "name": "Cetadex A",
     "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
     "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
   },
   {
-    "name": "Cetadex",
+    "name": "Cetadex B",
     "symptoms": "Conjuntivites e Infecções ou inflamações oculares",
     "instruction": "Pingar 1 a 2 gotas, de 4 em 4 horas, durante 7 dias."
   },
@@ -340,7 +340,7 @@
     "instruction": "Aplicar 1 a 1,5 cm, no saco conjuntival, 3 a 4 vezes ao dia."
   },
   {
-    "name": "Nepodex",
+    "name": "Nepodex A",
     "symptoms": "Infecções ou inflamações oculares",
     "instruction": "Aplicar 1 a 1,5 cm, no saco conjuntival, 3 a 4 vezes ao dia."
   },
@@ -350,7 +350,7 @@
     "instruction": "Pingar 1 a 2 gotas, de 1 em 1 hora, em casos graves, diminuindo-se gradativamente a dosagem até a interrupção quando se notar melhora da inflamação. Emacasos leves podem ser utilizadas de 4 a 6 vezes por dia."
   },
   {
-    "name": "Nepodex",
+    "name": "Nepodex B",
     "symptoms": "Infecções ou inflamações oculares",
     "instruction": "Pingar 1 a 2 gotas, de 1 em 1 hora, em casos graves, diminuindo-se gradativamente a dosagem até a interrupção quando se notar melhora da inflamação. Emacasos leves podem ser utilizadas de 4 a 6 vezes por dia."
   },

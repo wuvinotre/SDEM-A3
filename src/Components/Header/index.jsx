@@ -1,28 +1,56 @@
 import "./styles.scss";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
-export const Header = () => {
+const Header = () => {
+  let activeStyle = {
+    backgroundColor: "#e5e7eb",
+  };
+
   return (
     <div className="container">
       <div className="header-description">
         <h1>Lista de Medicamentos</h1>
         <p>
-          Ciência da Computação & Farmácia - Projeto <a href="">Ânima HUB</a>.
+          Ciência da Computação & Farmácia - Projeto
+          <a href="https://www.animahub.com.br" target="_blank">
+            Ânima HUB
+          </a>
+          .
         </p>
       </div>
       <div className="header-filter">
         <div className="filter-box">
           <div className="filter-child all">
-            <p>Todos</p>
+            <NavLink
+              to="/"
+              style={({ isActive }) => (isActive ? activeStyle : undefined)}
+            >
+              Corticoides
+            </NavLink>
           </div>
           <div className="filter-child">
-            <p>Anfetaminas</p>
+            <NavLink
+              to="/antitireoidianos"
+              style={({ isActive }) => (isActive ? activeStyle : undefined)}
+            >
+              Antitireoidianos
+            </NavLink>
           </div>
           <div className="filter-child">
-            <p>Anti-inflamatórios</p>
+            <NavLink
+              to="/anticoncepcionais"
+              style={({ isActive }) => (isActive ? activeStyle : undefined)}
+            >
+              Anticoncepcionais
+            </NavLink>
           </div>
           <div className="filter-child">
-            <p>Fitoterápicos</p>
+            <NavLink
+              to="/aines"
+              style={({ isActive }) => (isActive ? activeStyle : undefined)}
+            >
+              AINEs
+            </NavLink>
           </div>
         </div>
         <div className="search-box">
@@ -32,3 +60,5 @@ export const Header = () => {
     </div>
   );
 };
+
+export default Header;
