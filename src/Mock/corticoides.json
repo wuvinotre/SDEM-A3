@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Advantam",
+    "symptoms": "Dermatites e dermatoses",
+    "instruction": "Aplicar 1 camada fina nas regiões afetadas, 1 vez ao dia, durante 4 a 12 semanas"
+  },
+  {
+    "name": "Advantam Creme",
+    "symptoms": "Dermatites e dermatoses",
+    "instruction": "Aplicar 1 camada fina nas regiões afetadas, 1 vez ao dia, durante 2 semanas"
+  },
+  {
+    "name": "Depo Medrol Predi-Medrol",
+    "symptoms": "Doenças hematológicas, Artrite reumatóide, Doenças autoimunes, Imunossupressão, Choque Oftalmopatias, Lúpus, Insuficiencia suprarrenal, Neoplasias, Inflamações em geral, Reumatismos em geral, Edema cerebral, Alergias, Asma brônquica, Colagenoses em geral.",
+    "instruction": "Via injetável, posologia individualizada pra cada paciente"
+  },
+  {
+    "name": "Unimedrol solupren",
+    "symptoms": "Corticoterapia, Reumatismos em Geral, Colagenoses em geral, Choque, Asma brônquica, Artrite reumatóide, Alergia, Lúpus, Doenças autoimunes, Neoplasias, Corticoterapia, Edema cerebral, Insuficiência suprarrenal (Doença de Addison).",
+    "instruction": "Frasco de 125mg e 500 mg Via intramuscular, posologia individualizada de cada paciente."
+  },
+  {
+    "name": "Alerfin",
+    "symptoms": "Rinite",
+    "instruction": "Via nasal, aplicar 2 jatos, em cada narina, 2 vezes ao dia"
+  },
+  {
+    "name": "Clenil HFA",
+    "symptoms": "Asma brônquica",
+    "instruction": "Via inalatória, usar 2 doses, 2 vezes ao dia"
+  },
+  {
+    "name": "Blecort",
+    "symptoms": "Corticoterapia",
+    "instruction": "Via inalatória, usar 2 doses, 2 vezes ao dia"
+  },
+  {
+    "name": "Clenil Nasal Aquoso",
+    "symptoms": "Rinite",
+    "instruction": "Via nasal, aplicar 1 a 2 doses, 2 vezes ao dia"
+  }
+]
