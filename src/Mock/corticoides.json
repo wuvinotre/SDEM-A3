@@ -2,17 +2,17 @@
   {
     "name": "Advantam",
     "symptoms": "Dermatites e dermatoses",
-    "instruction": "Aplicar 1 camada fina nas regiões afetadas, 1 vez ao dia, durante 4 a 12 semanas"
+    "instruction": "Aplicar 1 camada fina nas regiões afetadas, 1 vez ao dia, durante 4 a 12 semanas."
   },
   {
     "name": "Advantam Creme",
     "symptoms": "Dermatites e dermatoses",
-    "instruction": "Aplicar 1 camada fina nas regiões afetadas, 1 vez ao dia, durante 2 semanas"
+    "instruction": "Aplicar 1 camada fina nas regiões afetadas, 1 vez ao dia, durante 2 semanas."
   },
   {
     "name": "Depo Medrol Predi-Medrol",
     "symptoms": "Doenças hematológicas, Artrite reumatóide, Doenças autoimunes, Imunossupressão, Choque Oftalmopatias, Lúpus, Insuficiencia suprarrenal, Neoplasias, Inflamações em geral, Reumatismos em geral, Edema cerebral, Alergias, Asma brônquica, Colagenoses em geral.",
-    "instruction": "Via injetável, posologia individualizada pra cada paciente"
+    "instruction": "Via injetável, posologia individualizada pra cada paciente."
   },
   {
     "name": "Unimedrol solupren",
@@ -22,21 +22,401 @@
   {
     "name": "Alerfin",
     "symptoms": "Rinite",
-    "instruction": "Via nasal, aplicar 2 jatos, em cada narina, 2 vezes ao dia"
+    "instruction": "Via nasal, aplicar 2 jatos, em cada narina, 2 vezes ao dia."
   },
   {
     "name": "Clenil HFA",
     "symptoms": "Asma brônquica",
-    "instruction": "Via inalatória, usar 2 doses, 2 vezes ao dia"
+    "instruction": "Via inalatória, usar 2 doses, 2 vezes ao dia."
   },
   {
     "name": "Blecort",
     "symptoms": "Corticoterapia",
-    "instruction": "Via inalatória, usar 2 doses, 2 vezes ao dia"
+    "instruction": "Via inalatória, usar 2 doses, 2 vezes ao dia."
   },
   {
     "name": "Clenil Nasal Aquoso",
     "symptoms": "Rinite",
-    "instruction": "Via nasal, aplicar 1 a 2 doses, 2 vezes ao dia"
+    "instruction": "Via nasal, aplicar 1 a 2 doses, 2 vezes ao dia."
+  },
+  {
+    "name": "Clenil Pulvinal",
+    "symptoms": "Asma brônquica",
+    "instruction": "Via inalatória. Adultos: usar 1 dose, 2 a 4 vezes ao dia."
+  },
+  {
+    "name": "Clenil Pulvinal",
+    "symptoms": "Corticoterapia",
+    "instruction": "Via inalatória. Crianças: usar 1 dose, 2 vezes ao dia."
+  },
+  {
+    "name": "Blecosol",
+    "symptoms": "Rinite",
+    "instruction": "Via nasal, uso adulto e pediátrico a partir de 6 anos."
+  },
+  {
+    "name": "Fostair Aerosol",
+    "symptoms": "Asma brônquica",
+    "instruction": "Via inalatória, usar 1 a 2 doses, 2 vezes ao dia."
+  },
+  {
+    "name": "Clenil Compositum HFA",
+    "symptoms": "Asma brônquica, doença pulmonar obstrutiva crônica",
+    "instruction": "Via inalatória uso adulto e pediátrico a partir de 6 anos, Adultos: usae 2 doses, 4 ou 6 vezes ao dia, Crianças: usar 1 a 2 doses, 2 a 4 vezes ao dia."
+  },
+  {
+    "name": "Areocort S",
+    "symptoms": "Asma brônquica, doença pulmonar obstrutiva crônica",
+    "instruction": "Via inalatória uso adulto e pediátrico a partir de 6 anos, Adultos: usae 2 doses, 4 ou 6 vezes ao dia, Crianças: usar 1 a 2 doses, 2 a 4 vezes ao dia."
+  },
+  {
+    "name": "Fostair DPI",
+    "symptoms": "Asma brônquica, doença pulmonar obstrutiva crônica",
+    "instruction": "Via inalatória, usar 1 a 2 doses, 2 vezes ao dia."
+  },
+  {
+    "name": "Clenil A",
+    "symptoms": "Asma brônquica, Rinite",
+    "instruction": "Via inalatória, adultos usar 1 flaconete,1 ou 2 vezes ao dia. Crianças usar 0,5 flaconete, 1 ou 2 vezes ao dia."
+  },
+  {
+    "name": "Miflasona",
+    "symptoms": "Rinite",
+    "instruction": "Via inalatória, usar 1 cápsula , 2 vezes ao dia."
+  },
+  {
+    "name": "Aerotide",
+    "symptoms": "Asma brônquica, Doença pulmonar obstrutiva crônica",
+    "instruction": "Via inalatória, adultos 2 doses, 3 ou 4 vezes ao dia e Crianças a partir de 12 anos 2,3 ou 4 vezes ao dia."
+  },
+  {
+    "name": "Trimbow",
+    "symptoms": "Doença pulmonar obstrutiva crônica",
+    "instruction": "Via inalatória, inalar 2 doses, de 12 em 12 horas, uso contínuo."
+  },
+  {
+    "name": "Triancilonolona acetonilda + sulfato de neomicina + gramicidina + nistatina pomada",
+    "symptoms": "Dermatites e dermsatoses, Infeccções ou inflamações na pele e mucosas, micoses superficiais",
+    "instruction": "Aplicar uma camada fina sobre a área afetada, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "MUD",
+    "symptoms": "Dermatites e dermsatoses, Infeccções ou inflamações na pele e mucosas, micoses superficiais",
+    "instruction": "Aplicar uma camada fina sobre a área afetada, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Oncibel",
+    "symptoms": "Dermatites e dermsatoses, Infeccções ou inflamações na pele e mucosas, micoses superficiais",
+    "instruction": "Aplicar uma camada fina sobre a área afetada, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Omcilon-Am",
+    "symptoms": "Dermatites e dermsatoses, Infeccções ou inflamações na pele e mucosas, micoses superficiais",
+    "instruction": "Aplicar uma camada fina sobre a área afetada, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Neolon D",
+    "symptoms": "Dermatites e dermsatoses, Infeccções ou inflamações na pele e mucosas, micoses superficiais",
+    "instruction": "Aplicar uma camada fina sobre a área afetada, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Oncileg",
+    "symptoms": "Dermatites e dermsatoses, Infeccções ou inflamações na pele e mucosas, micoses superficiais",
+    "instruction": "Aplicar uma camada fina sobre a área afetada, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Nasacort",
+    "symptoms": "Rinite",
+    "instruction": "Via nasal, uso a dulto e pediátrico acima de 2 anos, aplicar 1 a 2 borrifadas, em cada narina, 1 vez ao dia."
+  },
+  {
+    "name": "AlleNasal",
+    "symptoms": "Rinite",
+    "instruction": "Via nasal, uso a dulto e pediátrico acima de 2 anos, aplicar 1 a 2 borrifadas, em cada narina, 1 vez ao dia."
+  },
+  {
+    "name": "Omcilon -A-Orabase",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "Oralsept",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "Colujet",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "Oncileg-A",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "Coliaft",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "Oncicrem-A",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "MUD oral",
+    "symptoms": "Lesões ulcerativas orais lesões inflamatórias orais",
+    "instruction": "Aplicar 1 camada, sem esfregar sobre a lesão até que desenvolva uma película fina."
+  },
+  {
+    "name": "Airclin",
+    "symptoms": "Rinite",
+    "instruction": "Via nasal, uso adulto e pediátrico acima de 4 anos, aplicar 2 doses, em cada narina, 1 vez ao dia."
+  },
+  {
+    "name": "Ophtaac 40",
+    "symptoms": "Infeccções ou inflamções oculares",
+    "instruction": "Solução ocular de 20 mg Via intravítrea, aplicar 0,1 ml,Solução ocular de 20 mg Via subtenoniana, aplicar 1 ml,Solução ocular de 40 mg Via subtenoniana, aplicar 1 ml."
+  },
+  {
+    "name": "Triancil",
+    "symptoms": "Bursite, Osteoartite, Artrite reumatóide e Artrite gotosa aguda",
+    "instruction": "Via intra-articular, grandes articulações aplicar 10 a 20 mg, a cada 3 ou 4 semanas, pequenas juntas: aplicar 2 a 6 mg, a cada 3 ou 4 semanas."
+  },
+  {
+    "name": "Decadron Elixir",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Dexaden",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Dexason Elixir",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Koidexa",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Acetazona Elixir",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Dexaglós",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Neodex Elixir",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Bexeton",
+    "symptoms": "Inflamações em geral, Reumatismos em geral, Artrite reumatóid",
+    "instruction": "Tomar 0,75 a 1,5 mg 1x ao dia."
+  },
+  {
+    "name": "Decadron Comprimido",
+    "symptoms": "Choque, Oftalmopatias, Lúpus, Insuficiência suprarrenal (doença de Addison), Imunossupressão, Asma bônquica, Edema cerebral, Alergias, Doenças autoimunes, Inflamações em geral, Reumatismos em geral, Artrite reumatóide",
+    "instruction": "Tomar 0,75 a 15 mg ao dia."
+  },
+  {
+    "name": "Maxidex",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Frasco gotejador 5 ml, pingar 1 a 2 gotas, no saco conjuntival, de hora em hora. Bisnaga 3,5g. Aplicarn2 cm, da pomada no saco conjuntival, 4 vezes ao dia."
+  },
+  {
+    "name": "Dexanom",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Frasco gotejador 5 ml, pingar 1 a 2 gotas, no saco conjuntival, de hora em hora. Bisnaga 3,5g. Aplicarn2 cm, da pomada no saco conjuntival, 4 vezes ao dia."
+  },
+  {
+    "name": "Tobradex Suspensão",
+    "symptoms": "Corticoterapia tópica, Infecções ou inflamações oculares",
+    "instruction": "Uso adulto ou pediátrico acima de 2 anos. Pingar 1 a 2 gotas, a cada 4 a 6 horas."
+  },
+  {
+    "name": "Tobracin-D",
+    "symptoms": "Corticoterapia tópica, Infecções ou inflamações oculares",
+    "instruction": "Uso adulto ou pediátrico acima de 2 anos. Pingar 1 a 2 gotas, a cada 4 a 6 horas."
+  },
+  {
+    "name": "Tobracort suspensão",
+    "symptoms": "Corticoterapia tópica, Infecções ou inflamações oculares",
+    "instruction": "Uso adulto ou pediátrico acima de 2 anos. Pingar 1 a 2 gotas, a cada 4 a 6 horas."
+  },
+  {
+    "name": "Dexason Creme",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Dexagreen",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Dexametrat",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Dexaden Creme",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Dexadermil",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Cortitop",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia.Via"
+  },
+  {
+    "name": "Acetazona Creme",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Metadex",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Cortidex",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Dexamex",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Cetadex",
+    "symptoms": "Dermatite atópica, Otite externa, Queimaduras solares, Pruridos (coceiras), Picadas de insetos, Dermatites e dermatoses e Deramtite seborréica do couro cabeludo",
+    "instruction": "Aplicar 1 camada no local afetado, 2 a 3 vezes ao dia."
+  },
+  {
+    "name": "Cetadex",
+    "symptoms": "Conjuntivites e Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 a 2 gotas, de 4 em 4 horas, durante 7 dias."
+  },
+  {
+    "name": "Maxiflox-D",
+    "symptoms": "Conjuntivites e Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 a 2 gotas, de 4 em 4 horas, durante 7 dias."
+  },
+  {
+    "name": "Baycuten N",
+    "symptoms": "Micoses superficiais, Dermatites e dermatoses, Dermatomicoses e Eczemas",
+    "instruction": "Aplicar 1 camada, 2 vezes ao dia, de manhã e à noite, durante 8 a 10 dias."
+  },
+  {
+    "name": "Dexa-Citoneurin NFF",
+    "symptoms": "Neurites e polineurites, Neuralgias",
+    "instruction": "Injeção com os conteúdos das ampolas I e II, a cada 2 ou 3 dias."
+  },
+  {
+    "name": "Dexalgen NF",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Injeção com os conteúdos das ampolas I e II, a cada 2 ou 3 dias."
+  },
+  {
+    "name": "Maxitrol Pomada",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Aplicar 1 a 1,5 cm, no saco conjuntival, 3 a 4 vezes ao dia."
+  },
+  {
+    "name": "Nepodex",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Aplicar 1 a 1,5 cm, no saco conjuntival, 3 a 4 vezes ao dia."
+  },
+  {
+    "name": "Maxitrol Suspensão",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 a 2 gotas, de 1 em 1 hora, em casos graves, diminuindo-se gradativamente a dosagem até a interrupção quando se notar melhora da inflamação. Emacasos leves podem ser utilizadas de 4 a 6 vezes por dia."
+  },
+  {
+    "name": "Nepodex",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 a 2 gotas, de 1 em 1 hora, em casos graves, diminuindo-se gradativamente a dosagem até a interrupção quando se notar melhora da inflamação. Emacasos leves podem ser utilizadas de 4 a 6 vezes por dia."
+  },
+  {
+    "name": "Maxinom",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 a 2 gotas, de 1 em 1 hora, em casos graves, diminuindo-se gradativamente a dosagem até a interrupção quando se notar melhora da inflamação. Emacasos leves podem ser utilizadas de 4 a 6 vezes por dia."
+  },
+  {
+    "name": "Vigadexa",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 gota, no olho afetado ,4 vezes ao dia."
+  },
+  {
+    "name": "Facoba",
+    "symptoms": "Infecções ou inflamações oculares",
+    "instruction": "Pingar 1 gota, no olho afetado ,4 vezes ao dia."
+  },
+  {
+    "name": "Decadron Colírio",
+    "symptoms": "Infecções ou inflamações oculares e Infecções ou inflamações ouvido",
+    "instruction": "Via ocular, pingar 1 a 2 gotas, npo saco conjuntival, de 1 em 1 hora, durante o dia e a cada 2 horas durante a noite. Via auricular, pingar 3 a 4 gotas, 2 vezes ao dia. Pode ser aplicada 3 vezes ao dia."
+  },
+  {
+    "name": "Neocortin",
+    "symptoms": "Infecções ou inflamações oculares e Infecções ou inflamações ouvido",
+    "instruction": "Via ocular, pingar 1 a 2 gotas, npo saco conjuntival, de 1 em 1 hora, durante o dia e a cada 2 horas durante a noite. Via auricular, pingar 3 a 4 gotas, 2 vezes ao dia. Pode ser aplicada 3 vezes ao dia."
+  },
+  {
+    "name": "Dexavison",
+    "symptoms": "Infecções ou inflamações oculares e Infecções ou inflamações ouvido",
+    "instruction": "Via ocular, pingar 1 a 2 gotas, npo saco conjuntival, de 1 em 1 hora, durante o dia e a cada 2 horas durante a noite. Via auricular, pingar 3 a 4 gotas, 2 vezes ao dia. Pode ser aplicada 3 vezes ao dia."
+  },
+  {
+    "name": "Neodex N",
+    "symptoms": "Infecções ou inflamações oculares, Conjuntivites",
+    "instruction": "Aplicar 1 camada, 2 a 4 vezes ao dia."
+  },
+  {
+    "name": "Cylocort Solução",
+    "symptoms": "Infecções ou inflamações oculares, Conjuntivites",
+    "instruction": "Pingar 1 a 2 gotas no olho afetado, de 4 em 4horas, durante 7 dias."
+  },
+  {
+    "name": "Biamotil D",
+    "symptoms": "Infecções ou inflamações oculares, Conjuntivites",
+    "instruction": "Pingar 1 a 2 gotas no olho afetado, de 4 em 4horas, durante 7 dias."
+  },
+  {
+    "name": "Bialudex",
+    "symptoms": "Infecções ou inflamações oculares, Conjuntivites",
+    "instruction": "Pingar 1 a 2 gotas no olho afetado, de 4 em 4horas, durante 7 dias."
+  },
+  {
+    "name": "Ciprin Dexa",
+    "symptoms": "Infecções ou inflamações oculares, Conjuntivites",
+    "instruction": "Pingar 1 a 2 gotas no olho afetado, de 4 em 4horas, durante 7 dias."
+  },
+  {
+    "name": "Decadron Injetável 4 mg/ml",
+    "symptoms": "Imunossupressão, Corticoterapias, Oftalmopatias, Lúpus, Insuficiência suprarrenal (doença de Addison), Imunossupressão, Asma bônquica, Edema em geral, Alergias, Doenças hematológicas, Inflamações em geral, Reumatismos em geral, Artrite reumatóide, Colagenoses em geral, Doenças dermatológicas, Neoplasias (leucemias, linfomas) e Disturbios respiratórios",
+    "instruction": "Solução injetável com 4 MG/ML via intramuscular posologia individualizada de cada paciente."
+  },
+  {
+    "name": "Unidexa",
+    "symptoms": "Imunossupressão, Corticoterapias, Oftalmopatias, Lúpus, Insuficiência suprarrenal (doença de Addison), Imunossupressão, Asma bônquica, Edema em geral, Alergias, Doenças hematológicas, Inflamações em geral, Reumatismos em geral, Artrite reumatóide, Colagenoses em geral, Doenças dermatológicas, Neoplasias (leucemias, linfomas) e Disturbios respiratórios",
+    "instruction": "Solução injetável com 4 MG/ML via intramuscular posologia individualizada de cada paciente."
   }
 ]
