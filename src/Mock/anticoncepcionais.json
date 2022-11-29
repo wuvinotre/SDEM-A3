@@ -1,0 +1,117 @@
+[
+  {
+    "composition": "Estrogenio x progesterona",
+    "interactions": [
+      {
+        "InteractionWith": "Penicilina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz a eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Tetraciclinas",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz a eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Rifampicina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz a eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Nevirapina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz a eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Levotiroxina",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz eficácia Medicamento"
+      },
+      {
+        "InteractionWith": "Erva de São João",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Metilprednisolona",
+        "interactionIn": "Medicamento",
+        "interactionType": "Aumenta a meia vida e efeitos, reduz metabolismo, esteroide e Medicamento"
+      },
+      {
+        "InteractionWith": "Prednisolona",
+        "interactionIn": "Medicamento",
+        "interactionType": "Aumenta a meia vida e efeitos, reduz metabolismo, esteroide e Medicamento"
+      },
+      {
+        "InteractionWith": "Repaglinida",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz eficácia Medicamento"
+      },
+      {
+        "InteractionWith": "Fenobarbital",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Carbamazepina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Cimetidina",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz a velocidade de eliminação do Medicamento"
+      },
+      {
+        "InteractionWith": "Digoxina",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz a velocidade de eliminação do Medicamento"
+      },
+      {
+        "InteractionWith": "Nadolol",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz a velocidade de eliminação do Medicamento"
+      },
+      {
+        "InteractionWith": "Eritromicina",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz a velocidade de eliminação do Medicamento"
+      },
+      {
+        "InteractionWith": "Estradiol",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz a velocidade de eliminação do Medicamento"
+      },
+      {
+        "InteractionWith": "Verapamil",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz a velocidade de eliminação do Medicamento"
+      },
+      {
+        "InteractionWith": "AAS",
+        "interactionIn": "Medicamento",
+        "interactionType": "Reduz eficácia Medicamento"
+      }
+    ]
+  },
+  {
+    "composition": "Progesterona",
+    "interactions": [
+      {
+        "InteractionWith": "Acitretina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz a eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Isotretinoina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz a eficácia Anticoncepcional"
+      },
+      {
+        "InteractionWith": "Tretinoina",
+        "interactionIn": "Anticoncepcional",
+        "interactionType": "Reduz eficácia Anticoncepcional"
+      }
+    ]
+  }
+]
