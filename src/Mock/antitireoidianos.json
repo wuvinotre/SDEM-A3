@@ -4,63 +4,63 @@
     "interactions": [
       {
         "name": "Anticoagulantes",
-        "description": "Potencializa o efeito do anticoagulante"
+        "description": "Potencializa o efeito do anticoagulante."
       },
       {
         "name": "Antidiabéticos",
-        "description": "A Levotiroxina acarreta no aumento da glicemia"
+        "description": "A Levotiroxina acarreta no aumento da glicemia."
       },
       {
         "name": "Insulina",
-        "description": "A Levotiroxina acarreta no aumento da glicemia"
+        "description": "A Levotiroxina acarreta no aumento da glicemia."
       },
       {
         "name": "Medicamentos Indutores Enzimaticos",
-        "description": "Reduz concentrações séricas plasmáticas des hormônios tireoideanos"
+        "description": "Reduz concentrações séricas plasmáticas des hormônios tireoideanos."
       },
       {
         "name": "Inibidores da Protease",
-        "description": "Redução do efeito terapêutico da Levotiroxina"
+        "description": "Redução do efeito terapêutico da Levotiroxina."
       },
       {
         "name": "Amiodarona",
-        "description": "Reduz as concentrações séricas de T3"
+        "description": "Reduz as concentrações séricas de T3."
       },
       {
         "name": "Glicocorticoides",
-        "description": "Inibe a conversão de T4 para T3"
+        "description": "Inibe a conversão de T4 para T3."
       },
       {
         "name": "Propiltiouracil",
-        "description": "Inibe a conversão de T4 para T3"
+        "description": "Inibe a conversão de T4 para T3."
       },
       {
         "name": "Beta-simpatolíticos",
-        "description": "Inibe a conversão de T4 para T3"
+        "description": "Inibe a conversão de T4 para T3."
       },
       {
         "name": "Inibidores da Tirosina Quinase",
-        "description": "Reduzem a eficácia da Levotiroxina"
+        "description": "Reduzem a eficácia da Levotiroxina."
       },
       {
         "name": "Estógenos",
-        "description": "Aumenta a ligação da tiroxina, e como consequênte levando a erro de tratamentos e diagnósticos"
+        "description": "Aumenta a ligação da tiroxina, e como consequênte levando a erro de tratamentos e diagnósticos."
       },
       {
         "name": "Salicilatos",
-        "description": "Pode inibir a ligação de T4 e T3 à Globulina Ligadora de Tiroxina (TBG)"
+        "description": "Pode inibir a ligação de T4 e T3 à Globulina Ligadora de Tiroxina (TBG)."
       },
       {
         "name": "Furosemida",
-        "description": "Promove o aumento transitório de T4 livre e redução do T4 total"
+        "description": "Promove o aumento transitório de T4 livre e redução do T4 total."
       },
       {
         "name": "Sulfato Ferroso",
-        "description": "Reduz a absorção da Levotiroxina"
+        "description": "Reduz a absorção da Levotiroxina."
       },
       {
         "name": "Colestiramina",
-        "description": "Reduz a absorção da Levotiroxina"
+        "description": "Reduz a absorção da Levotiroxina."
       }
     ]
   },
@@ -69,27 +69,27 @@
     "interactions": [
       {
         "name": "Antidibéticos",
-        "description": "Acarreta no aumento da glicemia"
+        "description": "Acarreta no aumento da glicemia."
       },
       {
         "name": "Medicamentos Indutores Enzimaticos",
-        "description": "Reduz concentrações séricas plasmáticas des hormônios tireoideanos"
+        "description": "Reduz concentrações séricas plasmáticas des hormônios tireoideanos."
       },
       {
         "name": "Anticoagulantes",
-        "description": "Potencializa o efeito do anticoagulante"
+        "description": "Potencializa o efeito do anticoagulante."
       },
       {
         "name": "Glicosídeos digitálicos",
-        "description": "Aumenta os níveis séricos de digitálicos"
+        "description": "Aumenta os níveis séricos de digitálicos."
       },
       {
         "name": "Beta-bloqueadores",
-        "description": "Reduz os efeitos dos betabloqueadores"
+        "description": "Reduz os efeitos dos betabloqueadores."
       },
       {
         "name": "Colestiramina",
-        "description": "Reduz a absorção da Liotironina"
+        "description": "Reduz a absorção da Liotironina."
       }
     ]
   },
@@ -98,19 +98,19 @@
     "interactions": [
       {
         "name": "Anticoagulantes",
-        "description": "Potencializa o efeito do anticoagulante"
+        "description": "Potencializa o efeito do anticoagulante."
       },
       {
         "name": "Glicosídeos Digitálicos",
-        "description": "Aumenta os níveis séricos de digitálicos"
+        "description": "Aumenta os níveis séricos de digitálicos."
       },
       {
         "name": "Bloqueadores Beta-adrenérgicos",
-        "description": "Aumento do clearence dos betabloqueadores "
+        "description": "Aumento do clearence dos betabloqueadores."
       },
       {
         "name": "Teofilina",
-        "description": "O clearence da Teofilina pode diminuir"
+        "description": "O clearence da Teofilina pode diminuir."
       }
     ]
   },
@@ -119,27 +119,27 @@
     "interactions": [
       {
         "name": "Anticoagulantes",
-        "description": "Potencializa o efeito do anticoagulante"
+        "description": "Potencializa o efeito do anticoagulante."
       },
       {
         "name": "Amiodarona",
-        "description": "Diminui a resposta da Propiltiouracila"
+        "description": "Diminui a resposta da Propiltiouracila."
       },
       {
         "name": "Glicerol Iodado",
-        "description": "Diminui a resposta da Propiltiouracila"
+        "description": "Diminui a resposta da Propiltiouracila."
       },
       {
         "name": "Iodedo de Potássio",
-        "description": "Diminui a resposta da Propiltiouracila"
+        "description": "Diminui a resposta da Propiltiouracila."
       },
       {
         "name": "Medicamentos Mielodepressores",
-        "description": "Aumenta os riscos de hemorragias"
+        "description": "Aumenta os riscos de hemorragias."
       },
       {
         "name": "Medicamentos Hepatóxicos",
-        "description": "Aumenta os riscos de hemorragias"
+        "description": "Aumenta os riscos de hemorragias."
       }
     ]
   }
