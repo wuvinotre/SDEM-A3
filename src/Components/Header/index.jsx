@@ -82,9 +82,7 @@ const Header = () => {
               }
             }}
           />
-          <button type onClick={onChange}>
-            🔎
-          </button>
+          <button onClick={onChange}>🔎</button>
         </div>
       </div>
     </div>

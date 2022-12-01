@@ -13,11 +13,11 @@ export const initialState = {
 };
 
 const filterByComposition = (search) => (item) => {
-  return item.composition.toLowerCase().includes(search.toLowerCase());
+  return item.composition.toLowerCase().includes(search.toLowerCase().trim());
 };
 
 const filterByName = (search) => (item) => {
-  return item.name.toLowerCase().includes(search.toLowerCase());
+  return item.name.toLowerCase().includes(search.toLowerCase().trim());
 };
 
 export const reducer = (state, action) => {
