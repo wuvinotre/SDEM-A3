@@ -1,8 +1,17 @@
-import Content from "../../Components/Content";
+// Json
 import Data from "../../Mock/antitireoidianos";
 
+// Components
+import Content from "../../Components/Content";
+import Head from "../../Components/Head";
+
 const Antitireoidianos = () => {
-  return <Content data={Data} />;
+  return (
+    <>
+      <Head title="Antitireoidianos" description="Lista de Antitireoidianos" />
+      <Content data={Data} />
+    </>
+  );
 };
 
 export default Antitireoidianos;
