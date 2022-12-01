@@ -1,8 +1,9 @@
 import { createContext } from "react";
-import aines from "../mock/aines.json";
-import anticoncepcionais from "../mock/anticoncepcionais.json";
-import antitireoidianos from "../mock/antitireoidianos.json";
-import corticoide from "../mock/corticoides.json";
+
+import aines from "../Mock/aines.json";
+import anticoncepcionais from "../Mock/anticoncepcionais.json";
+import antitireoidianos from "../Mock/antitireoidianos.json";
+import corticoide from "../Mock/corticoides.json";
 
 export const initialState = {
   aines: aines,
