@@ -1,8 +1,11 @@
+import { useContext } from "react";
+import Context from "../../context/context";
 import Content from "../../Components/Content";
-import Data from "../../Mock/anticoncepcionais";
 
 const Anticoncepcionais = () => {
-  return <Content data={Data} />;
+  const [state] = useContext(Context);
+
+  return <Content data={state.anticoncepcionais} />;
 };
 
 export default Anticoncepcionais;

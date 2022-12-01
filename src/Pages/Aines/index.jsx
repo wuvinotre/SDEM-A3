@@ -1,8 +1,11 @@
+import { useContext } from "react";
 import Content from "../../Components/Content";
-import Data from "../../Mock/aines";
+import Context from "../../context/context";
 
 const Aines = () => {
-  return <Content data={Data} />;
+  const [state] = useContext(Context);
+
+  return <Content data={state.aines} />;
 };
 
 export default Aines;

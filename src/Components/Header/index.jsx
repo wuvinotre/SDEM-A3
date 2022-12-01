@@ -1,7 +1,17 @@
-import "./styles.scss";
+import { useContext, useState } from "react";
 import { NavLink } from "react-router-dom";
+import Context from "../../context/context";
+import "./styles.scss";
 
 const Header = () => {
+  const [search, setSearch] = useState("");
+  // eslint-disable-next-line no-unused-vars
+  const [_, dispatch] = useContext(Context);
+
+  const onChange = () => {
+    dispatch({ type: "search", search: search });
+  };
+
   let activeStyle = {
     backgroundColor: "#e5e7eb",
   };
@@ -11,8 +21,12 @@ const Header = () => {
       <div className="header-description">
         <h1>Lista de Medicamentos</h1>
         <p>
-          Ciência da Computação & Farmácia - Projeto{" "}
-          <a href="https://www.animahub.com.br" target="_blank">
+          Ciência da Computação & Farmácia - Projeto
+          <a
+            href="https://www.animahub.com.br"
+            target="_blank"
+            rel="noreferrer"
+          >
             Ânima HUB
           </a>
           .
@@ -54,7 +68,14 @@ const Header = () => {
           </div>
         </div>
         <div className="search-box">
-          <input type="text" placeholder="Pesquisar ⌬" />
+          <input
+            type="text"
+            placeholder="Pesquisar"
+            onChange={(e) => setSearch(e.target.value)}
+          />
+          <button type onClick={onChange}>
+            🔎
+          </button>
         </div>
       </div>
     </div>
