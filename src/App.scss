@@ -1,3 +1,8 @@
+$text-dark: #111827;
+$text-gray: #374151;
+$text-blue: #3b82f6;
+$bg-gray: #f3f4f6;
+
 html {
   font-size: 62.5%;
 }
@@ -12,8 +17,8 @@ body {
   max-width: 102rem;
   margin: 6rem auto;
   padding: 2rem;
-  background-color: #f3f4f6;
-  color: #111827;
+  background-color: $bg-gray;
+  color: $text-dark;
   font-family: "Inter", sans-serif;
 }
 
@@ -34,12 +39,12 @@ h2 {
 p {
   font-size: 1.6rem;
   font-weight: 500;
-  color: #374151;
+  color: $text-gray;
 }
 
 a {
   font-size: 1.6rem;
   font-weight: 500;
-  color: #3b82f6;
+  color: $text-blue;
   text-decoration: none;
 }
