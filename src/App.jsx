@@ -5,18 +5,18 @@ import "./App.scss";
 
 // Components
 import Container from "./Components/Container";
-import ErrorPage from "./Pages/Error";
+import Custom404 from "./Pages/Error/404";
 
 function App() {
   return (
-    <div className="App">
+    <>
       <BrowserRouter>
         <Routes>
           <Route path="/*" element={<Container />} />
-          <Route path="*" element={<ErrorPage />} />
+          <Route path="*" element={<Custom404 />} />
         </Routes>
       </BrowserRouter>
-    </div>
+    </>
   );
 }
 export default App;

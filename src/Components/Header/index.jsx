@@ -7,7 +7,7 @@ const Header = () => {
   };
 
   return (
-    <div className="container">
+    <div className="header">
       <div className="header-description">
         <h1>Lista de Medicamentos</h1>
         <p>

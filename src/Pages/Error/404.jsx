@@ -1,6 +1,6 @@
 import "./styles.scss";
 
-const ErrorPage = () => {
+const Custom404 = () => {
   return (
     <div className="error-page">
       <h1>Oops!</h1>
@@ -9,4 +9,4 @@ const ErrorPage = () => {
   );
 };
 
-export default ErrorPage;
+export default Custom404;
