@@ -7,22 +7,22 @@ import "./App.scss";
 
 // Components
 import Container from "./Components/Container";
-import ErrorPage from "./Pages/Error";
+import Custom404 from "./Pages/Error/404";
 
 function App() {
-  const [state, dispatch] = useReducer(reducer, initialState);
+    const [state, dispatch] = useReducer(reducer, initialState);
 
-  return (
-    <Context.Provider value={[state, dispatch]}>
-      <div className="App">
-        <BrowserRouter>
-          <Routes>
-            <Route path="/*" element={<Container />} />
-            <Route path="*" element={<ErrorPage />} />
-          </Routes>
-        </BrowserRouter>
-      </div>
-    </Context.Provider>
-  );
+    return (
+        <Context.Provider value={[state, dispatch]}>
+            <div className="App">
+                <BrowserRouter>
+                    <Routes>
+                        <Route path="/*" element={<Container />} />
+                        <Route path="*" element={<Custom404 />} />
+                    </Routes>
+                </BrowserRouter>
+            </div>
+        </Context.Provider>
+    );
 }
 export default App;

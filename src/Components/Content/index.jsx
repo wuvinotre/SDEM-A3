@@ -1,9 +1,94 @@
+import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
 // CSS
 import "./styles.scss";
+
+// Hooks
+import useMedia from "../../Hooks/useMedia";
+
 const Content = ({ data }) => {
+  const [loading, setLoading] = useState(true);
+  const mobile = useMedia("(max-width: 53.125rem)");
   const location = useLocation();
+
+  useEffect(() => {
+    setLoading(false);
+  }, [mobile]);
+
+  if (loading)
+    return (
+      <div className="card">
+        <p>Carregando...</p>
+      </div>
+    );
+
+  if (mobile) {
+    switch (location.pathname) {
+      case "/antitireoidianos":
+        return (
+          <>
+            {data.map((item) => (
+              <div key={item.id} className="card">
+                <h2>Nome</h2>
+                <p>{item.name}</p>
+                <h2>Interação com</h2>
+                <p>{item.nameInteraction}</p>
+                <h2>Tipo de Interação</h2>
+                <p>{item.description}</p>
+              </div>
+            ))}
+          </>
+        );
+      case "/anticoncepcionais":
+        return (
+          <>
+            {data.map((item) => (
+              <div key={item.id} className="card">
+                <h2>Composição</h2>
+                <p>{item.composition}</p>
+                <h2>Interação com</h2>
+                <p>{item.InteractionWith}</p>
+                <h2>Interação no</h2>
+                <p>{item.interactionIn}</p>
+                <h2>Tipo de interação</h2>
+                <p>{item.interactionType}</p>
+              </div>
+            ))}
+          </>
+        );
+      case "/aines":
+        return (
+          <>
+            {data.map((item) => (
+              <div key={item.id} className="card">
+                <h2>Composição</h2>
+                <p>{item.composition}</p>
+                <h2>Interação com</h2>
+                <p>{item.InteractionWith}</p>
+                <h2>Tipo de interação</h2>
+                <p>{item.interactionType}</p>
+              </div>
+            ))}
+          </>
+        );
+      default:
+        return (
+          <>
+            {data.map((item) => (
+              <div key={item.name} className="card">
+                <h2>Nome</h2>
+                <p>{item.name}</p>
+                <h2>Pra que serve</h2>
+                <p>{item.symptoms}</p>
+                <h2>Como usar</h2>
+                <p>{item.instruction}</p>
+              </div>
+            ))}
+          </>
+        );
+    }
+  }
 
   switch (location.pathname) {
     case "/antitireoidianos":
@@ -94,7 +179,6 @@ const Content = ({ data }) => {
                 <td id="center">
                   <h2>Interação com</h2>
                 </td>
-
                 <td id="right">
                   <h2>Tipo de interação</h2>
                 </td>
@@ -109,7 +193,6 @@ const Content = ({ data }) => {
                   <td>
                     <p>{item.InteractionWith}</p>
                   </td>
-
                   <td>
                     <p>{item.interactionType}</p>
                   </td>

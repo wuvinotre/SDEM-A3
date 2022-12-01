@@ -1,11 +1,19 @@
 import { useContext } from "react";
-import Content from "../../Components/Content";
 import Context from "../../context/context";
 
-const Aines = () => {
-  const [state] = useContext(Context);
+// Components
+import Content from "../../Components/Content";
+import Head from "../../Components/Head";
 
-  return <Content data={state.aines} />;
+const Aines = () => {
+    const [state] = useContext(Context);
+
+    return (
+        <>
+            <Head title="AINEs" description="Lista de AINEs" />
+            <Content data={state.aines} />
+        </>
+    );
 };
 
 export default Aines;
