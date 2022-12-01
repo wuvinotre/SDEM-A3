@@ -11,21 +11,18 @@ import Anticoncepcionais from "../../Pages/Anticoncepcionais";
 import Custom404 from "../../Pages/Error/404";
 
 const index = () => {
-    return (
-        <>
-            <Header />
-            <Routes>
-                <Route path="/" element={<Corticoides />} />
-                <Route path="antitireoidianos" element={<Antitireoidianos />} />
-                <Route
-                    path="anticoncepcionais"
-                    element={<Anticoncepcionais />}
-                />
-                <Route path="aines" element={<Aines />} />
-                <Route path="*" element={<Custom404 />} />
-            </Routes>
-        </>
-    );
+  return (
+    <>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Corticoides />} />
+        <Route path="antitireoidianos" element={<Antitireoidianos />} />
+        <Route path="anticoncepcionais" element={<Anticoncepcionais />} />
+        <Route path="aines" element={<Aines />} />
+        <Route path="*" element={<Custom404 />} />
+      </Routes>
+    </>
+  );
 };
 
 export default index;

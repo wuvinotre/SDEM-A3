@@ -6,14 +6,14 @@ import Content from "../../Components/Content";
 import Head from "../../Components/Head";
 
 const Corticoides = () => {
-    const [state] = useContext(Context);
+  const [state] = useContext(Context);
 
-    return (
-        <>
-            <Head title="Corticoides" description="Lista de Corticoides" />
-            <Content data={state.corticoide} />
-        </>
-    );
+  return (
+    <>
+      <Head title="Corticoides" description="Lista de Corticoides" />
+      <Content data={state.corticoide} />
+    </>
+  );
 };
 
 export default Corticoides;

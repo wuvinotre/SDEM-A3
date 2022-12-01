@@ -6,17 +6,14 @@ import Content from "../../Components/Content";
 import Head from "../../Components/Head";
 
 const Antitireoidianos = () => {
-    const [state] = useContext(Context);
+  const [state] = useContext(Context);
 
-    return (
-        <>
-            <Head
-                title="Antitireoidianos"
-                description="Lista de Antitireoidianos"
-            />
-            <Content data={state.antitireoidianos} />{" "}
-        </>
-    );
+  return (
+    <>
+      <Head title="Antitireoidianos" description="Lista de Antitireoidianos" />
+      <Content data={state.antitireoidianos} />
+    </>
+  );
 };
 
 export default Antitireoidianos;

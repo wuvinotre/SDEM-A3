@@ -6,14 +6,14 @@ import Content from "../../Components/Content";
 import Head from "../../Components/Head";
 
 const Aines = () => {
-    const [state] = useContext(Context);
+  const [state] = useContext(Context);
 
-    return (
-        <>
-            <Head title="AINEs" description="Lista de AINEs" />
-            <Content data={state.aines} />
-        </>
-    );
+  return (
+    <>
+      <Head title="AINEs" description="Lista de AINEs" />
+      <Content data={state.aines} />
+    </>
+  );
 };
 
 export default Aines;

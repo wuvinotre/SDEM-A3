@@ -13,12 +13,10 @@
   },
   {
     "id": "3",
-
     "composition": "Etoricoxibe",
     "InteractionWith": "Rifampicina",
     "interactionType": "Reduz em 65% a área sob a curva (AUC) da concentração plasmática do etoricoxibe."
   },
-
   {
     "id": "4",
     "composition": "Etoricoxibe",
@@ -55,7 +53,6 @@
     "InteractionWith": "Anticoncepcionais Orais",
     "interactionType": "Ocorre um aumento na concentração do etinilestradiol que possui em anticoncepcionais orais."
   },
-
   {
     "id": "10",
     "composition": "Atroveran DIP",
@@ -74,7 +71,6 @@
     "InteractionWith": "Rifampicina",
     "interactionType": "Redução do efeito do ácido acetilsalicílico na agregação plaquetária."
   },
-
   {
     "id": "13",
     "composition": "Ácido Mefenâmico",
