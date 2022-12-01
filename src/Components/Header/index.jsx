@@ -11,7 +11,7 @@ const Header = () => {
       <div className="header-description">
         <h1>Lista de Medicamentos</h1>
         <p>
-          Ciência da Computação & Farmácia - Projeto
+          Ciência da Computação & Farmácia - Projeto{" "}
           <a href="https://www.animahub.com.br" target="_blank">
             Ânima HUB
           </a>
