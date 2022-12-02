@@ -29,6 +29,6 @@ Iniciar localmente:
   <img src="https://contrib.rocks/image?repo=wuvinotre/SDEM-A3" />
 </a>
 
-## Link do App:
+## Link do App
 
 https://lab4-wuvinotre.vercel.app
