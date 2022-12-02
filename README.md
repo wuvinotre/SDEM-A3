@@ -24,7 +24,7 @@ Iniciar localmente:
 
 `yarn dev`
 
-### Participantes:
+## Participantes:
 <a href="https://github.com/wuvinotre/SDEM-A3/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wuvinotre/SDEM-A3" />
 </a>
